@@ -1,6 +1,6 @@
 # InsightifySMS Notification Channel
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/laravel-notification-channels/insightifysms.svg?style=flat-square)](https://packagist.org/packages/laravel-notification-channels/insightifysms)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/laravel-notification-channels/insightifysms.svg?style=flat-square)](https://packagist.org/packages/insightifysms-laravel-notification-channels/insightifysms)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://img.shields.io/travis/laravel-notification-channels/insightifysms/master.svg?style=flat-square)](https://travis-ci.org/laravel-notification-channels/insightifysms)
 [![StyleCI](https://styleci.io/repos/339892204/shield)](https://styleci.io/repos/339892204)
